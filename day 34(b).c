@@ -1,5 +1,5 @@
-//Q67 (Arrays (1D))
-//Insert an element in an array at a given position.
+//Q68 (Arrays (1D))
+//Delete an element from an array.
 #include<stdio.h>
 
 int main() 
@@ -19,7 +19,7 @@ int main()
     for(int i=index;i<n-1;i++)
     {
         a[i]=a[i+1];
-    }A
+    }
     n=n-1;
     
     for(int i=0;i<n;i++)
