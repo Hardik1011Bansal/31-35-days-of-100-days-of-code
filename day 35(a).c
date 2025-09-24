@@ -1,3 +1,5 @@
+//Q69 (Arrays (1D))
+//Find the second largest element in an array
 #include<stdio.h>
 #include<limits.h>
 int main()
